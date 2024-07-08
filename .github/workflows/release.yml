@@ -21,4 +21,4 @@ jobs:
       - run: cargo b -r
       - uses: softprops/action-gh-release@v2
         with:
-          files: target/release/*.wasm
+          files: target/wasm32-wasi/release/*.wasm
