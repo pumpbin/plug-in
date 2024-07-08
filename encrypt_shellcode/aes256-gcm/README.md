@@ -1,0 +1,4 @@
+# aes256-gcm
+
+key: `$$KKKKKKKKKKKKKKKKKKKKKKKKKKKK$$`\
+nonce: `$$NNNNNNNN$$`
